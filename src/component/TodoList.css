@@ -1,0 +1,11 @@
+.listItem {
+  display: flex;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  background-color: cadetblue;
+}
+
+button {
+  margin-left: 5px;
+}
