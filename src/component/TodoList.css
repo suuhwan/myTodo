@@ -7,5 +7,18 @@
 }
 
 button {
+  margin-top: 10px;
   margin-left: 5px;
+}
+
+.TodoFrom {
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  background-color: darkturquoise;
+}
+
+span {
+  display: inline-block;
+  width: 70px;
 }
